@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentSystem_jar</output-path>
+    <root id="archive" name="StudentSystem.jar">
+      <element id="module-output" name="StudentSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/.idea/pdfbox-app-2.0.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
